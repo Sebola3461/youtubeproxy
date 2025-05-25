@@ -2,6 +2,7 @@
   "dependencies": {
     "@distube/ytdl-core": "^4.16.10",
     "express": "^5.1.0",
+    "youtube-dl-exec": "^3.0.21",
     "ytdl-core": "^4.11.5"
   },
   "devDependencies": {
