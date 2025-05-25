@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@distube/ytdl-core": "^4.16.10",
+    "express": "^5.1.0",
+    "ytdl-core": "^4.11.5"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.2"
+  }
+}
